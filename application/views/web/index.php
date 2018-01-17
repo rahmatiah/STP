@@ -48,8 +48,8 @@
       </div>
       <div class="grid-20 tablet-grid-20 hide-on-mobile">
         <form role="search" method="get" id="searchform" action="https://ristekdikti.go.id/" class="search-top" style="margin:0;">
-          <input name="s" id="s" type="text">
-          <input value="" type="submit">
+          <input name="s" id="s" type="text" placeholder="Search..">
+          <button type="submit"><i class="fa fa-search"></i></button>
         </form>
       </div>
     </div>
