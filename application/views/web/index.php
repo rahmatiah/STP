@@ -3,15 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- <link rel="stylesheet" id="udefault-css" href="http://localhost/stp/assets/css/default.css" type="text/css" media="all"> -->
     <link rel="stylesheet" id="styles-css" href="http://localhost/stp/assets/css/styles_002.css" type="text/css" media="all">
     <link rel="stylesheet" id="style-css" href="http://localhost/stp/assets/css/style_3.css" type="text/css" media="all">
-    <!-- <link rel="stylesheet" id="youtube-channel-gallery-css" href="http://localhost/stp/assets/css/styles.css" type="text/css" media="all"> -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="http://localhost/stp/assets/css/main.css" />
     <link rel="stylesheet" href="http://localhost/stp/assets/css/style.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
     <style>
     /* Note: Try to remove the following lines to see the effect of CSS positioning */
@@ -62,14 +60,24 @@
           <div class="menu text-uppercase">
             <ul class=" horizontal no-padder">
               <li class=" current-menu-item"><a href="#">Home</a></li>
-              <li><a href="#">Profil</a>
+              <li><a href="#">Profil</a></li>
+              <li><a href="#">Program</a></li>
+              <li><a href="#">Berita</a></li>
+              <li><a href="#">Solo Science Center</a></li>
+              <li><a href="#">Diklat Mekanik</a>
                 <ul class="sub-menu">
-                  <li><a href="#">yuuu</a></li>
-                  <li><a href="#">wkwkwk</a></li>
+                  <li><a href="#">Berita</a></li>
+                  <li><a href="#">Pendaftaran</a></li>
                 </ul>
               </li>
-              <li><a href="#">Page 2</a></li>
-              <li><a href="#">Page 3</a></li>
+              <li><a href="#">Inkubator Bisnis</a>
+                <ul class="sub-menu">
+                  <li><a href="#">Berita</a></li>
+                  <li><a href="#">Pendaftaran</a></li>
+                  <li><a href="#">Profil Tenant dan List Produk</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Kontak</a></li>
             </ul>
           </div>
         </nav>
