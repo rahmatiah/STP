@@ -1,4 +1,4 @@
-searchform/*
+/*
 Theme Name: RistekDikti
 Theme URI: pakar10.com
 Description: Theme for RistekDikti
@@ -331,7 +331,7 @@ ul.top-nav {
   padding: 11px 15px 6px;
   text-align: left;
   width: 466px;
-}searchform
+}
 
 @media only screen and (max-width: 1025px) {
   .bx-wrapper .bx-pager.bx-default-pager {
@@ -2073,7 +2073,7 @@ span.youmax-video-list-description {
         width: 100%;
     }
     .search-top {
-        margin: 50;
+        margin: 0;
         position: relative;
         padding: 13px 20px 13px 10px;
         width: 80%;
